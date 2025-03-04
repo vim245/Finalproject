@@ -1,4 +1,4 @@
-# final-project
+# Final Project
 # Carbonomics Project
 this is my Data Analytics final project.
 here data cleaning and wragling is done by Python and Data visualisation is by using Tableau.
