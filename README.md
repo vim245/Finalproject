@@ -1,9 +1,9 @@
 # Final Project
-# Carbonomics Project
+## Carbonomics Project
 This is my Data Analytics final project.
 The analysis explores the relationship between population and GDP, as well as the correlation between greenhouse gas (GHG) emissions and GDP over a 20-year period using Python and Tableau.
 
-# The Key aspects of this study include:
+## The Key aspects of this study include:
 Examining the relationship between population and GDP, identifying trends and potential dependencies.
 Analyzing the GHG-GDP relationship over two decades to assess how economic growth correlates with environmental impact.
 Evaluating the correlation between GHG emissions and GDP through statistical and visualization through Tableau.
