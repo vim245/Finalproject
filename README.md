@@ -1,11 +1,15 @@
 # Final Project
 # Carbonomics Project
-this is my Data Analytics final project.
-here data cleaning and wragling is done by Python and Data visualisation is by using Tableau.
-This project analyzing carbon emissions, sustainability metrics, and economic impact.
+This is my Data Analytics final project.
+The analysis explores the relationship between population and GDP, as well as the correlation between greenhouse gas (GHG) emissions and GDP over a 20-year period using Python and Tableau.
+
+# The Key aspects of this study include:
+Examining the relationship between population and GDP, identifying trends and potential dependencies.
+Analyzing the GHG-GDP relationship over two decades to assess how economic growth correlates with environmental impact.
+Evaluating the correlation between GHG emissions and GDP through statistical and visualization through Tableau.
 
 ## File Information
-- **Carbonomics_project.twbx**: Packaged Tableau workbook including data and visualization.
+- **Carbonomics_project.twbx**:  Tableau workbook including data and visualization.
 
 ## How to Use
 1. Download `Carbonomics_project.twbx`.
