@@ -5,8 +5,8 @@ The analysis explores the relationship between population and GDP, as well as th
 
 ## The Key aspects of this study include:
 Examining the relationship between population and GDP, identifying trends and potential dependencies.
-Analyzing the GHG-GDP relationship over two decades to assess how economic growth correlates with environmental impact.
-Evaluating the correlation between GHG emissions and GDP through statistical and visualization through Tableau.
+Analyzing the GHG-GDP relationship over two decades for 22 EU countries and assess how industrial growth correlates with environmental impact.
+Evaluating the correlation between GHG emissions and GDP through statistical analysis and visualised through Tableau.
 
 ## File Information
 - **Carbonomics_project.twbx**:  Tableau workbook including data and visualization.
